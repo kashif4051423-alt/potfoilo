@@ -1,0 +1,169 @@
+================================================================================
+                          KASHIF ALI
+                    Full Stack Web Developer
+================================================================================
+
+CONTACT INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Email:        Khashia791@gmail.com
+Phone:        03347140884 / 03269415471
+GitHub:       https://github.com/kashif4051423-alt
+Location:     Available Worldwide
+
+
+PROFESSIONAL SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Passionate Full Stack Web Developer with 2+ years of professional experience in 
+designing and developing modern, responsive, and scalable web solutions. Expertise 
+in building business websites, e-commerce platforms, web applications, and SaaS 
+solutions. Committed to creating high-performance applications with excellent user 
+experiences using modern technologies and best practices.
+
+
+EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2+ Years Experience in Full Stack Web Development
+- Website Development and Design
+- Web Application Development
+- Full Stack Development with modern frameworks
+- E-Commerce Platform Development
+- SaaS Application Development
+- Graphic Design Services
+
+
+TECHNICAL SKILLS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FRONTEND TECHNOLOGIES
+  • HTML5, CSS3, JavaScript (ES6+)
+  • React.js - Modern UI development
+  • Next.js 15 - Full stack applications
+  • Angular - Single Page Applications
+  • Tailwind CSS - Utility-first CSS framework
+  • Responsive Web Design
+  • UI/UX Implementation
+
+BACKEND TECHNOLOGIES
+  • Node.js - Server-side JavaScript
+  • REST APIs - API design and development
+  • Express.js - Web framework
+  • Full Stack Development
+
+DATABASE TECHNOLOGIES
+  • Supabase - Modern database solution
+  • MongoDB - NoSQL database
+  • PostgreSQL - Relational database
+  • Database design and optimization
+
+OTHER TECHNOLOGIES
+  • TypeScript - Type-safe JavaScript
+  • Git & GitHub - Version control
+  • SaaS Platform Development
+  • Graphic Design
+  • Modern development practices
+
+
+FEATURED PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Al Madina Furniture & Woods
+   Technology: React.js, Tailwind CSS
+   Link: https://almadinafurnitureandwoods.netlify.app/
+   Description: Modern furniture business website with responsive design
+
+2. Sarwar Glass & Aluminum
+   Technology: React.js, CSS
+   Link: https://sarwarglassandaluminum.netlify.app/
+   Description: Professional business website for glass and aluminum services
+
+3. R A Interior And Renovation
+   Technology: React.js
+   Link: https://interiorandrenovation.netlify.app/
+   Description: Interior design and renovation company website
+
+4. CV Builder Web Application
+   Technology: React.js, Node.js, MongoDB
+   Link: https://cvforgebuilder.netlify.app/
+   Description: Full-stack CV builder with dynamic resume generation features
+
+5. Crusty Pizza Hut
+   Technology: Full Stack Application
+   Link: https://crustypizza.netlify.app/
+   Description: Restaurant management and food ordering application
+
+6. Avant Core Technologies
+   Technology: Modern Web Development
+   Link: https://avantcore.vercel.app/
+   Description: Professional company portfolio website
+
+7. Dukaanify
+   Technology: Next.js 15, Supabase, Tailwind CSS, TypeScript
+   Link: https://dukaanify-jler.vercel.app/
+   Description: Multi-feature SaaS platform with advanced business tools
+
+8. Bismillah Web Application
+   Technology: HTML, CSS, JavaScript
+   Link: https://bismillahagroup.netlify.app/
+   Description: Business web application
+
+9. Well Grow Shine Construction
+   Technology: HTML, CSS, JavaScript
+   Link: https://wellgrowshine.netlify.app/
+   Description: Construction company website
+
+10. Al Mustafai Online Shopping
+    Technology: E-Commerce Website
+    Link: https://almustafaionlineshopping.netlify.app/
+    Description: Online shopping and e-commerce platform
+
+
+SERVICES OFFERED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Business Websites
+✓ E-Commerce Websites
+✓ Web Applications
+✓ Mobile Applications
+✓ SaaS Platforms
+✓ Graphic Designing
+✓ Full Stack Development
+
+
+EXPERTISE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Modern Responsive Web Design
+• Performance Optimization
+• SEO-friendly Development
+• Clean & Maintainable Code
+• User Experience Focus
+• Scalable Architecture
+• API Development
+• Database Design
+
+
+CORE COMPETENCIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Full Stack Development
+✓ Frontend UI/UX Implementation
+✓ Backend API Development
+✓ Database Management
+✓ Web Application Architecture
+✓ Cloud Deployment (Vercel, Netlify)
+✓ Git Version Control
+✓ Agile Development Practices
+
+
+PROFESSIONAL ATTRIBUTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Problem-solving mindset
+✓ Continuous learner
+✓ Detail-oriented
+✓ Client-focused approach
+✓ Deadline-driven
+✓ Team player
+✓ Strong communication skills
+
+
+================================================================================
+Generated: 2026
+For more information, visit: https://github.com/kashif4051423-alt
+================================================================================
