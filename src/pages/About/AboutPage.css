@@ -58,6 +58,7 @@ body.dark .buttonDownload:hover {
 	border-top-color: inherit;
 	animation: downloadArrow 2s linear infinite;
 	animation-play-state: paused;
+	will-change: margin-top, opacity;
 }
 
 .buttonDownload:hover:before {
@@ -176,8 +177,9 @@ section .row .col-skill h4{
     margin: 0 1.5rem;
     transform: translate(0px, -75px);
     opacity: 0;
-    transition: .5s ease all;
+    transition: transform 0.5s ease, opacity 0.5s ease;
     color: var(--white);
+    will-change: transform, opacity;
 }
 
 .skill>div:hover h5 {
@@ -189,10 +191,20 @@ section .row .col-skill h4{
     width: 7rem;
     height: 7rem;
     margin: .5rem 3rem;
+    filter: brightness(0.95);
+    transition: filter 0.3s ease, transform 0.3s ease;
+    will-change: filter, transform;
 }
 
 section .row .columns .skill img:hover {
     transform: scale(1.2);
+    filter: brightness(1.3) saturate(1.5);
+    box-shadow: 0 0 20px rgba(76, 199, 19, 0.6);
+}
+
+/* Tool specific hover effects */
+.skill > div:hover img {
+    filter: brightness(1.4) saturate(1.8) drop-shadow(0 0 15px rgba(76, 199, 19, 0.8));
 }
 
 /********************** Sobre-mi-page **********************/
@@ -303,6 +315,11 @@ section .row .columns .skill img:hover {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 7rem;
     }
+}
+
+/* Dark mode support for skills */
+body.dark .skill > div:hover img {
+    filter: brightness(1.4) saturate(1.8) drop-shadow(0 0 15px rgba(76, 199, 19, 0.8));
 }
 
 @media (max-width: 760px) {

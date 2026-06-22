@@ -22,7 +22,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: 0.4s;
+  transition: transform 0.4s ease;
+  will-change: transform;
 }
 
 .cm-up:hover {

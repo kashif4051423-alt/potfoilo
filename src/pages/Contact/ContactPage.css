@@ -38,7 +38,8 @@
 .icons a .layer{
     width: 7rem;
     height: 7rem;
-    transition: transform 0.3s;
+    transition: transform 0.3s ease;
+    will-change: transform;
 }
 .icons a:hover .layer{
     transform: rotate(-35deg) skew(20deg);
@@ -51,7 +52,8 @@
     width: 100%;
     border: 3px solid #fff;
     border-radius: 5px;
-    transition: all 0.3s;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    will-change: opacity, transform;
 }
 .icons a .layer span.fab{
     display: flex;
@@ -134,6 +136,7 @@
     font-weight: 600;
     transform: translateX(-50%);
     transition: bottom 0.3s ease, opacity 0.3s ease;
+    will-change: bottom, opacity;
 }
 .icons a:hover .text{
     bottom: -35px;

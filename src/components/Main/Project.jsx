@@ -54,11 +54,12 @@ const Project = () => {
                                 Modern furniture business website
                             </p>
                             <p className="tecnologias">
-                                React.js
-                                <span> -</span> Tailwind CSS
-                                <span> -</span> Responsive Design
+                                React.js - Tailwind CSS - Responsive Design
                             </p>
-                            <a href="https://almadinafurnitureandwoods.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://almadinafurnitureandwoods.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -73,11 +74,12 @@ const Project = () => {
                                 Professional business website
                             </p>
                             <p className="tecnologias">
-                                React.js
-                                <span> -</span> CSS
-                                <span> -</span> Responsive
+                                React.js - CSS - Responsive
                             </p>
-                            <a href="https://sarwarglassandaluminum.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://sarwarglassandaluminum.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -92,12 +94,12 @@ const Project = () => {
                                 Full-stack CV builder with dynamic resume generation
                             </p>
                             <p className="tecnologias">
-                                React.js
-                                <span> -</span> Node.js
-                                <span> -</span> MongoDB
-                                <span> -</span> Tailwind CSS
+                                React.js - Node.js - MongoDB - Tailwind CSS
                             </p>
-                            <a href="https://cvforgebuilder.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://cvforgebuilder.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -111,12 +113,12 @@ const Project = () => {
                                 Multi-feature SaaS platform
                             </p>
                             <p className="tecnologias">
-                                Next.js 15
-                                <span> -</span> Supabase
-                                <span> -</span> Tailwind CSS
-                                <span> -</span> TypeScript
+                                Next.js 15 - Supabase - Tailwind CSS - TypeScript
                             </p>
-                            <a href="https://dukaanify-jler.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://dukaanify-jler.vercel.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -130,11 +132,12 @@ const Project = () => {
                                 Restaurant management and food ordering application
                             </p>
                             <p className="tecnologias">
-                                React.js
-                                <span> -</span> Node.js
-                                <span> -</span> Full Stack
+                                React.js - Node.js - Full Stack
                             </p>
-                            <a href="https://crustypizza.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://crustypizza.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -148,11 +151,12 @@ const Project = () => {
                                 Professional company portfolio website
                             </p>
                             <p className="tecnologias">
-                                Modern Web Development
-                                <span> -</span> Responsive
-                                <span> -</span> Performance
+                                Modern Web Development - Responsive - Performance
                             </p>
-                            <a href="https://avantcore.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://avantcore.vercel.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -166,11 +170,12 @@ const Project = () => {
                                 Interior design and renovation company website
                             </p>
                             <p className="tecnologias">
-                                React.js
-                                <span> -</span> CSS
-                                <span> -</span> Responsive
+                                React.js - CSS - Responsive
                             </p>
-                            <a href="https://interiorandrenovation.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://interiorandrenovation.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -184,11 +189,12 @@ const Project = () => {
                                 Business web application with core web technologies
                             </p>
                             <p className="tecnologias">
-                                HTML
-                                <span> -</span> CSS
-                                <span> -</span> JavaScript
+                                HTML - CSS - JavaScript
                             </p>
-                            <a href="https://bismillahagroup.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://bismillahagroup.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -202,11 +208,12 @@ const Project = () => {
                                 Construction company website
                             </p>
                             <p className="tecnologias">
-                                HTML
-                                <span> -</span> CSS
-                                <span> -</span> JavaScript
+                                HTML - CSS - JavaScript
                             </p>
-                            <a href="https://wellgrowshine.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://wellgrowshine.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -220,11 +227,12 @@ const Project = () => {
                                 Online shopping and e-commerce platform
                             </p>
                             <p className="tecnologias">
-                                E-Commerce
-                                <span> -</span> Responsive
-                                <span> -</span> Modern Design
+                                E-Commerce - Responsive - Modern Design
                             </p>
-                            <a href="https://almustafaionlineshopping.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <div className="project-buttons">
+                                <a href="https://almustafaionlineshopping.netlify.app/" className="btn-demo" target="_blank" rel="noopener noreferrer">Demo</a>
+                                <a href="https://github.com" className="btn-repo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </div>
                         </div>
                     </SwiperSlide>
                 </Swiper>
