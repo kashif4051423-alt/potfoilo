@@ -17,6 +17,7 @@
     "react-spinners": "^0.11.0",
     "react-tsparticles": "^2.1.3",
     "react-typical": "^0.1.3",
+    "sharp": "^0.35.2",
     "swiper": "^8.1.4",
     "web-vitals": "^2.1.4"
   },
@@ -47,7 +48,7 @@
     ]
   },
   "devDependencies": {
-    "tsparticles": "^2.1.3",
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "tsparticles": "^2.1.3"
   }
 }

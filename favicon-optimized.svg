@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+    </style>
+  </defs>
+  
+  <!-- Background - Dark blue -->
+  <rect width="200" height="200" fill="#121f41"/>
+  
+  <!-- KA Letters Group - Centered -->
+  <g transform="translate(100, 105)">
+    <!-- K in Red -->
+    <text x="-45" y="35" font-size="110" fill="#FF0000" text-anchor="end" font-weight="900">K</text>
+    
+    <!-- A in Black -->
+    <text x="25" y="35" font-size="110" fill="#000000" text-anchor="start" font-weight="900">A</text>
+  </g>
+</svg>

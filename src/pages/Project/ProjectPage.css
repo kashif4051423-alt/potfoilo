@@ -7,6 +7,10 @@
 
 .proyectos .proyectos-slider {
   padding-bottom: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 500px;
 }
 
 .proyectos .proyectos-slider .caja {
@@ -413,4 +417,30 @@
 
 .project-techs img:hover {
   transform: scale(1.1);
+}
+
+
+/********************** Swiper Fixes **********************/
+
+.proyectos-slider .swiper-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.proyectos-slider .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+}
+
+.caja {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.caja img {
+  display: block;
+  min-height: 200px;
 }
